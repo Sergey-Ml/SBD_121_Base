@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DShooter", "3DShooter\3DSh
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For", "For\For.vcxproj", "{3754DA1B-84A9-452C-B56E-1B9915839139}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "geometriya", "geometriya\geometriya.vcxproj", "{3AD4B322-6E60-4EFF-89F4-6DFDD02BFADA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -97,6 +99,14 @@ Global
 		{3754DA1B-84A9-452C-B56E-1B9915839139}.Release|x64.Build.0 = Release|x64
 		{3754DA1B-84A9-452C-B56E-1B9915839139}.Release|x86.ActiveCfg = Release|Win32
 		{3754DA1B-84A9-452C-B56E-1B9915839139}.Release|x86.Build.0 = Release|Win32
+		{3AD4B322-6E60-4EFF-89F4-6DFDD02BFADA}.Debug|x64.ActiveCfg = Debug|x64
+		{3AD4B322-6E60-4EFF-89F4-6DFDD02BFADA}.Debug|x64.Build.0 = Debug|x64
+		{3AD4B322-6E60-4EFF-89F4-6DFDD02BFADA}.Debug|x86.ActiveCfg = Debug|Win32
+		{3AD4B322-6E60-4EFF-89F4-6DFDD02BFADA}.Debug|x86.Build.0 = Debug|Win32
+		{3AD4B322-6E60-4EFF-89F4-6DFDD02BFADA}.Release|x64.ActiveCfg = Release|x64
+		{3AD4B322-6E60-4EFF-89F4-6DFDD02BFADA}.Release|x64.Build.0 = Release|x64
+		{3AD4B322-6E60-4EFF-89F4-6DFDD02BFADA}.Release|x86.ActiveCfg = Release|Win32
+		{3AD4B322-6E60-4EFF-89F4-6DFDD02BFADA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
