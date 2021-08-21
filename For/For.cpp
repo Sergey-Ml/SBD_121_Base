@@ -1,12 +1,12 @@
-//Цикл FOR
+п»ї//Р¦РёРєР» FOR
 #include<iostream>
 using namespace std;
 
 void main()
 {
 	setlocale(LC_ALL, "Russian");
-	int n; //Кол-во итераций
-	cout << "Введите кол-во итераций: "; cin >> n;
+	int n; //РљРѕР»-РІРѕ РёС‚РµСЂР°С†РёР№
+	cout << "Р’РІРµРґРёС‚Рµ РєРѕР»-РІРѕ РёС‚РµСЂР°С†РёР№: "; cin >> n;
 	for (int i = 0; i < n; i++)
 	{
 		cout << i << "\t";
